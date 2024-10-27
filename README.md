@@ -40,7 +40,10 @@ Hello! I'm Ram Wasankar, a third-year Computer Science and Engineering student I
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-wasankar&layout=compact&theme=radical)
 
+---
 ## Connect with Me
 - 📧 [ram.wasankar@outlook.com](mailto:ram.wasankar@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramwasankar)
