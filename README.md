@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-Hello! I'm Ram Wasankar, a third-year Computer Science and Engineering student at Indira College of Engineering & Management, Pune. I have a strong passion for **software engineering**, **artificial intelligence**, and **machine learning**, and I'm dedicated to building efficient, scalable, and innovative software solutions.
+Hello! I'm Ram Wasankar, a third-year Computer Science and Engineering student I have a strong passion for **software engineering**, **artificial intelligence**, and **machine learning**, and I'm dedicated to building efficient, scalable, and innovative software solutions.
 
 ---
 
@@ -48,4 +48,4 @@ Hello! I'm Ram Wasankar, a third-year Computer Science and Engineering student a
 
 ---
 
-✨ I’m actively looking for internship opportunities in **C/C++ Python Programming**, **Machine Learning**, and **Artificial Intelligence**. Let's connect and create innovative solutions together!
+✨ I’m actively looking for internship opportunities in **Software Engineering**, **Machine Learning**, and **Artificial Intelligence**. Let's connect and create innovative solutions together!
