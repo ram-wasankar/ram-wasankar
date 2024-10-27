@@ -44,9 +44,11 @@ Hello! I'm Ram Wasankar, a third-year Computer Science and Engineering student I
 
 ---
 ## Connect with Me
-- 📧 [ram.wasankar@outlook.com](mailto:ram.wasankar@outlook.com)
+## Connect with Me
+- 📧 [Email](mailto:ram.wasankar@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramwasankar)
 - 🖥️ [GitHub](https://github.com/ram-wasankar)
+
 
 ---
 
