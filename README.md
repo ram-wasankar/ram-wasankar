@@ -44,10 +44,9 @@ Hello! I'm Ram Wasankar, a third-year Computer Science and Engineering student I
 
 ---
 ## Connect with Me
-## Connect with Me
-- 📧 [Email](mailto:ram.wasankar@outlook.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramwasankar)
-- 🖥️ [GitHub](https://github.com/ram-wasankar)
+- 📧 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ram.wasankar@outlook.com)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramwasankar)
+- 🖥️ [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram-wasankar)
 
 
 ---
