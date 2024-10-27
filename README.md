@@ -12,7 +12,7 @@ Hello! I'm Ram Wasankar, a third-year Computer Science and Engineering student I
 ---
 
 ## Skills
-- 💻 **Programming Languages:** C++, Python, C
+- 💻 **Programming Languages:** C++, Python, C, MySQL
 - 🧠 **Frameworks and Tools:** Django, HTML, CSS
 - 📊 **Data Analysis Tools:** Pandas, NumPy, Tableau
 - 📈 **Visualization Tools:** Matplotlib, Seaborn
