@@ -1,54 +1,77 @@
-# Hey 👋 What's up?
+# Hey, I'm Ram 👋
 
-Hello! I'm Ram Wasankar, a third-year Computer Science and Engineering student I have a strong passion for **software engineering**, **artificial intelligence**, and **machine learning**, and I'm dedicated to building efficient, scalable, and innovative software solutions.
+I'm a software engineer who enjoys building intelligent systems that combine **machine learning**, **backend engineering**, and **software architecture**.
 
----
-
-## My Interests
-- 💻 **Software Engineering:** Crafting robust and scalable software applications with a focus on performance and user experience.
-- 🤖 **Artificial Intelligence:** Applying AI techniques to develop intelligent systems that can learn and adapt.
-- 📈 **Machine Learning:** Building predictive models and using data to inform decision-making and automation.
+My work focuses on creating production-ready AI applications—from retrieval systems and LLM evaluation frameworks to compiler analysis and data-driven software.
 
 ---
 
-## Skills
-- 💻 **Programming Languages:** C++, Python, C, MySQL
-- 🧠 **Frameworks and Tools:** Django, HTML, CSS
-- 📊 **Data Analysis Tools:** Pandas, NumPy, Tableau
-- 📈 **Visualization Tools:** Matplotlib, Seaborn
-- ☁️ **Cloud Services:** AWS, Azure
+## 🚀 What I'm Building
+
+- 🤖 Large Language Model (LLM) Applications
+- 🔍 Retrieval-Augmented Generation (RAG) Systems
+- 📊 AI Evaluation & Observability Platforms
+- ⚡ High-performance Backend Services
+- 🧠 Machine Learning & Deep Learning Projects
+- 🔧 Compiler & Program Analysis Tools
 
 ---
 
-## Major Projects
-- 🏆 **Heart Failure Prediction System:** AI/ML-based prediction model; won IGI Global Hackathon 2024.
-- 🧑‍💻 **Automated Code Review System:** Enhancing code quality and maintainability with AI.
-- 🔍 **Video Surveillance and Tracking System:** Real-time tracking solutions for security surveillance.
+## 🛠 Tech Stack
+
+### Languages
+`Python` `C++` `JavaScript` `SQL`
+
+### Backend
+`FastAPI` `Flask` `Node.js` `REST APIs`
+
+### AI / ML
+`PyTorch` `TensorFlow` `LLMs` `RAG`
+`NLP` `Vector Search` `Prompt Engineering`
+
+### Databases
+`PostgreSQL` `MongoDB` `Snowflake`
+
+### Tools
+`Docker` `Git` `AWS` `PySpark`
 
 ---
 
-## I Code with
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## ⭐ Featured Projects
 
----
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-wasankar&layout=compact&theme=radical)
+### 🎙 InceptoAI
+An AI-powered mock interview platform with speech processing, LLM evaluation, and real-time analytics.
 
----
-## Connect with Me
-- [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ram.wasankar@outlook.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramwasankar)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram-wasankar)
+### 📈 LLM Observability Platform
+Monitor latency, cost, retrieval quality, and response faithfulness for production LLM applications.
 
+### ⚙ LLVM Lock Analysis
+Static analysis framework for detecting synchronization patterns and lock ordering in multithreaded software.
+
+### ❤️ HridayCare
+Machine learning application for heart failure prediction built using structured clinical datasets.
 
 ---
 
-✨ I’m actively looking for internship opportunities in **Software Engineering**, **Machine Learning**, and **Artificial Intelligence**. Let's connect and create innovative solutions together!
+## 📚 Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Engineering
+- Distributed Systems
+- Information Retrieval
+- System Design
+- Compiler Design
+- Open Source
+
+---
+
+> *"I enjoy turning research ideas into practical software."*
+
+---
+
+### 📫 Connect
+
+📧 **ram.wasankar@outlook.com**
+
+💼 **LinkedIn:** *(your profile)*
