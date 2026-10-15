@@ -1,137 +1,60 @@
-<h1 align="center">Hi, I'm Ram Wasankar</h1>
+# Ram Wasankar
 
-<p align="center">
-Building intelligent systems through Machine Learning, Backend Engineering, and Software Systems.
-</p>
+MS Computer Science at **UC Davis** · Software engineering & machine learning
 
----
+I work on retrieval systems, language model evaluation, and compiler-based program analysis. My current focus is making multi-model systems more efficient: choosing the right model for each task, controlling inference costs, and coordinating agents with less context overhead.
 
-## About Me
+[Portfolio](https://ram-wasankar.github.io/) · [Research](https://ram-wasankar.github.io/research.html#research) · [LinkedIn](https://linkedin.com/in/ramwasankar) · [Email](mailto:ramwasankar04@gmail.com)
 
-I enjoy building software that combines research with engineering. My interests span machine learning, privacy-preserving AI, backend systems, information retrieval, and compiler technologies. Most of my work focuses on designing scalable systems that are reliable, reproducible, and practical.
+## Current work
 
-- Building AI-powered applications and backend systems
-- Exploring Federated Learning and Privacy-Preserving AI
-- Developing evaluation frameworks for Large Language Models
-- Interested in Distributed Systems, Information Retrieval, and Program Analysis
-- Always learning, experimenting, and contributing through projects
+### Task-Aware Multi-Model Agent Orchestration
 
----
+An orchestration system in development that routes tasks across model providers and lets agents exchange intermediate results. The goal is to balance task quality, cost, and latency while avoiding repeated transmission of the full conversation history.
 
-## Tech Stack
+The related research, **Cost-Optimal Model Selection and Adaptive Agent Coordination**, explores learned routing, open-source model cascades, budget allocation across task graphs, and selective context handoffs. Evaluation focuses on cost per successful task, reliability, and the overhead introduced by coordination.
 
-### Languages
+[Project overview](https://ram-wasankar.github.io/research.html#project) · [Research direction](https://ram-wasankar.github.io/research.html#research)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+## Selected projects
 
-### Backend & Frameworks
+### InceptoAI · Multimodal Mock Interview Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react" />
-</p>
+A full-stack interview platform combining speech processing, contextual feedback, structured assessment, and real-time performance analytics. The work led to a peer-reviewed paper and the Inter-College Project of the Year Award in 2026.
 
-### AI / Machine Learning
+### Compiler-Based Analysis of Lock Ordering
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Search-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_Evaluation-343541?style=for-the-badge"/>
-</p>
+LLVM static-analysis passes that trace lock acquisitions across function boundaries and identify cyclic dependencies that could cause deadlocks. Validated with custom compiler instrumentation and concurrent test harnesses.
 
-### Databases
+### LLM Observability and Evaluation Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-</p>
+A FastAPI and PostgreSQL platform for tracking inference latency, token cost, output quality, and reliability. Automates prompt and model comparisons using retrieval-relevance and faithfulness evaluations to identify regressions.
 
-### Tools
+[More project details](https://ram-wasankar.github.io/#projects)
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
+## Experience
+
+- **Dentsu Global Services · Software Engineer**  
+  Enterprise master data modeling, validation logic, and governance workflows in Semarchy xDM. July–September 2026.
+- **Plural Technology · Software Engineer Intern**  
+  Document retrieval pipelines, full-stack LLM features, and sequence modeling. Improved retrieval quality by 21% and reduced retrieval latency by 25%. December 2024–June 2025.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | C++, Python, JavaScript, SQL |
+| Applications & services | React, Node.js, FastAPI, Flask, REST APIs |
+| Machine learning | PyTorch, TensorFlow, RAG, embeddings, vector search, model evaluation |
+| Systems & data | LLVM, AWS, Docker, PostgreSQL, MongoDB, Snowflake, PySpark |
+
+## Background
+
+**University of California, Davis** · MS Computer Science, expected June 2028  
+**Savitribai Phule Pune University** · BE Computer Engineering, 2026
+
+Previously a Google Developers Group Student Lead and Microsoft Learn Student Ambassador. Winner of the IGI Hackathon (2024) and IGI Ideathon (2025).
 
 ---
 
-## Featured Projects
-
-### Federated Diffusion Models for Privacy-Preserving Generative AI
-
-Research on federated diffusion models with Differential Privacy for decentralized generative AI, exploring communication efficiency, convergence, and privacy–utility trade-offs.
-
-**Tech:** Python • PyTorch • Federated Learning • Diffusion Models
-
----
-
-### LLM Observability & Evaluation Platform
-
-Platform for monitoring production LLM applications through latency analysis, cost tracking, retrieval evaluation, faithfulness scoring, and experiment management.
-
-**Tech:** FastAPI • PostgreSQL • Python
-
----
-
-### Compiler-Based Lock Ordering Analysis
-
-Static analysis framework built on LLVM to analyze synchronization behavior and lock acquisition patterns in concurrent software.
-
-**Tech:** C++ • LLVM
-
----
-
-### HridayCare
-
-Machine learning system for heart failure prediction using structured clinical datasets with comparative evaluation of multiple classification models.
-
-**Tech:** Python • Scikit-learn
-
----
-
-## Research Interests
-
-- Privacy-Preserving AI
-- Federated Learning
-- Large Language Models
-- Retrieval-Augmented Generation
-- Information Retrieval
-- Distributed Systems
-- Compiler Design
-- Program Analysis
-
----
-
-## Publications
-
-- Federated Diffusion Models for Privacy-Preserving Generative AI
-- InceptoAI: Multimodal Mock Interview Platform
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
-
----
-
-## Connect
-
-<p>
-<a href="https://linkedin.com/in/ramwasankar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ram.wasankar@outlook.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white"/>
-</a>
-</p>
+Interested in software engineering, ML systems, and research collaborations. Reach me at [ramwasankar04@gmail.com](mailto:ramwasankar04@gmail.com).
