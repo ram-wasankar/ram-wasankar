@@ -1,6 +1,6 @@
-<a href="https://ram-wasankar.github.io/">
-  <img src="assets/profile-header.svg" width="1200" alt="Ram Wasankar — Software Engineering and ML Systems. MS Computer Science at UC Davis." />
-</a>
+# Ram Wasankar
+
+MS Computer Science · University of California, Davis
 
 <p align="center">
   <a href="https://ram-wasankar.github.io/"><strong>PORTFOLIO ↗</strong></a>
