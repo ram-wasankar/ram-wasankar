@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Ram Wasankar</title>
+<desc id="desc">Software engineering and machine learning systems. MS Computer Science at UC Davis.</desc>
+<rect width="1200" height="330" rx="8" fill="#111820"/>
+<path d="M48 47H92" stroke="#99c7ba" stroke-width="4"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="92" fill="#a9b4bf" font-size="15" letter-spacing="3">SOFTWARE ENGINEERING / ML SYSTEMS</text>
+<text x="44" y="184" fill="#f5f4ef" font-size="78" font-weight="700" letter-spacing="-3">Ram Wasankar</text>
+<text x="48" y="227" fill="#c0c8ce" font-size="22">Building systems. Studying how to make them better.</text>
+<text x="1152" y="55" text-anchor="end" fill="#99c7ba" font-size="16">UC DAVIS</text>
+<text x="1152" y="81" text-anchor="end" fill="#a9b4bf" font-size="14">MS COMPUTER SCIENCE</text>
+<path d="M48 268H1152" stroke="#35414b"/>
+<text x="48" y="305" fill="#a9b4bf" font-size="14" letter-spacing="1.5">RETRIEVAL SYSTEMS</text>
+<text x="421" y="305" fill="#a9b4bf" font-size="14" letter-spacing="1.5">MODEL EVALUATION</text>
+<text x="831" y="305" fill="#a9b4bf" font-size="14" letter-spacing="1.5">PROGRAM ANALYSIS</text>
+</g></svg>
