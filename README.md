@@ -83,32 +83,55 @@ A FastAPI and PostgreSQL platform for measuring inference latency, token cost, a
 
 <br>
 
-<details>
-<summary><strong>Tools I work with</strong></summary>
+### Technical toolkit
 
-<br>
-
-| | |
+| Focus | Tools & technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, JavaScript, SQL |
-| **Applications** | FastAPI, Flask, Node.js, React |
-| **Machine learning** | PyTorch, TensorFlow, RAG, embeddings, vector search, model evaluation |
-| **Systems & data** | LLVM, AWS, Docker, PostgreSQL, MongoDB, Snowflake, PySpark |
-
-</details>
-
-<details>
-<summary><strong>Education & beyond engineering</strong></summary>
+| **Programming** | Python · C++ · JavaScript · SQL |
+| **Backend & interfaces** | FastAPI · Flask · Node.js · React · REST APIs |
+| **ML frameworks** | PyTorch · TensorFlow |
+| **Language model systems** | RAG · Embeddings · Vector search · Model evaluation · Fine-tuning & PEFT |
+| **Infrastructure & analysis** | AWS · Docker · LLVM |
+| **Data platforms** | PostgreSQL · MongoDB · Snowflake · PySpark |
 
 <br>
 
-**UC Davis** · MS Computer Science, expected June 2028  
-**Savitribai Phule Pune University** · BE Computer Engineering, 2026
+### Education
 
-Google Developers Group Student Lead · Microsoft Learn Student Ambassador  
-IGI Hackathon Winner, 2024 · IGI Ideathon Winner, 2025
+**University of California, Davis**  
+MS in Computer Science · Expected June 2028  
+Davis, California
 
-</details>
+**Savitribai Phule Pune University**  
+BE in Computer Engineering · 2022–2026  
+Pune, India
+
+<br>
+
+### Awards & leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**RECOGNITION**
+
+- Inter-College Project of the Year · 2026
+- IGI Ideathon Winner · 2025
+- IGI Hackathon Winner · 2024
+
+</td>
+<td width="50%" valign="top">
+
+**COMMUNITY**
+
+- Google Developers Group Student Lead · 2025
+- Microsoft Learn Student Ambassador · 2023
+- Robin Hood Army Food Distribution Lead · 2023
+
+</td>
+</tr>
+</table>
 
 <br>
 
