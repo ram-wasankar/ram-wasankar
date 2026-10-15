@@ -1,60 +1,74 @@
 # Ram Wasankar
+**MS Computer Science, UC Davis** · Software engineering & ML systems
 
-MS Computer Science at **UC Davis** · Software engineering & machine learning
+I build retrieval pipelines, evaluation tools, and software analysis systems. Currently working on model routing and agent coordination to make language model workflows more cost-efficient.
 
-I work on retrieval systems, language model evaluation, and compiler-based program analysis. My current focus is making multi-model systems more efficient: choosing the right model for each task, controlling inference costs, and coordinating agents with less context overhead.
+**[View portfolio ↗](https://ram-wasankar.github.io/)** &nbsp; [LinkedIn](https://linkedin.com/in/ramwasankar) &nbsp; [Email](mailto:ramwasankar04@gmail.com)
 
-[Portfolio](https://ram-wasankar.github.io/) · [Research](https://ram-wasankar.github.io/research.html#research) · [LinkedIn](https://linkedin.com/in/ramwasankar) · [Email](mailto:ramwasankar04@gmail.com)
+[Current work](#current-work) · [Projects](#selected-projects) · [Experience](#experience) · [Skills & background](#skills--background)
+
+---
 
 ## Current work
 
 ### Task-Aware Multi-Model Agent Orchestration
+*In development*
 
-An orchestration system in development that routes tasks across model providers and lets agents exchange intermediate results. The goal is to balance task quality, cost, and latency while avoiding repeated transmission of the full conversation history.
+**The problem:** Using one model for every task can waste compute; adding more agents can introduce extra cost and context overhead.
 
-The related research, **Cost-Optimal Model Selection and Adaptive Agent Coordination**, explores learned routing, open-source model cascades, budget allocation across task graphs, and selective context handoffs. Evaluation focuses on cost per successful task, reliability, and the overhead introduced by coordination.
+**The approach:** Route each task to a suitable model, coordinate agents across providers, and pass only the context needed for the next step.
 
-[Project overview](https://ram-wasankar.github.io/research.html#project) · [Research direction](https://ram-wasankar.github.io/research.html#research)
+**Research focus:** Learn when to use inexpensive open-source models, when to escalate, and when another model call is worth its cost. Evaluate task success, cost per successful task, and latency.
+
+[Explore the project →](https://ram-wasankar.github.io/research.html#project) · [Read the research direction →](https://ram-wasankar.github.io/research.html#research)
 
 ## Selected projects
 
-### InceptoAI · Multimodal Mock Interview Platform
+| Project | What it does |
+| :--- | :--- |
+| **InceptoAI** | Multimodal interview practice with speech processing, contextual feedback, and real-time assessment. Peer-reviewed paper; Project of the Year Award, 2026. |
+| **LLVM Lock Ordering Analysis** | Traces lock acquisitions across function boundaries to detect cyclic dependencies that could cause deadlocks. |
+| **LLM Observability & Evaluation** | Tracks inference latency, token cost, and output quality; compares prompts and models to identify regressions. |
 
-A full-stack interview platform combining speech processing, contextual feedback, structured assessment, and real-time performance analytics. The work led to a peer-reviewed paper and the Inter-College Project of the Year Award in 2026.
-
-### Compiler-Based Analysis of Lock Ordering
-
-LLVM static-analysis passes that trace lock acquisitions across function boundaries and identify cyclic dependencies that could cause deadlocks. Validated with custom compiler instrumentation and concurrent test harnesses.
-
-### LLM Observability and Evaluation Platform
-
-A FastAPI and PostgreSQL platform for tracking inference latency, token cost, output quality, and reliability. Automates prompt and model comparisons using retrieval-relevance and faithfulness evaluations to identify regressions.
-
-[More project details](https://ram-wasankar.github.io/#projects)
+[View full project descriptions →](https://ram-wasankar.github.io/#projects)
 
 ## Experience
 
-- **Dentsu Global Services · Software Engineer**  
-  Enterprise master data modeling, validation logic, and governance workflows in Semarchy xDM. July–September 2026.
-- **Plural Technology · Software Engineer Intern**  
-  Document retrieval pipelines, full-stack LLM features, and sequence modeling. Improved retrieval quality by 21% and reduced retrieval latency by 25%. December 2024–June 2025.
+**Software Engineer · Dentsu Global Services**  
+July–September 2026  
+Enterprise data modeling, validation, and governance workflows in Semarchy xDM.
 
-## Technical toolkit
+**Software Engineer Intern · Plural Technology**  
+December 2024–June 2025  
+Retrieval pipelines and full-stack LLM features. Improved retrieval quality by **21%** and reduced retrieval latency by **25%**.
+
+## Skills & background
+
+<details>
+<summary><strong>Technical toolkit</strong></summary>
 
 | Area | Technologies |
-| --- | --- |
-| Languages | C++, Python, JavaScript, SQL |
-| Applications & services | React, Node.js, FastAPI, Flask, REST APIs |
+| :--- | :--- |
+| Languages | Python, C++, JavaScript, SQL |
+| Applications & services | FastAPI, Flask, Node.js, React, REST APIs |
 | Machine learning | PyTorch, TensorFlow, RAG, embeddings, vector search, model evaluation |
 | Systems & data | LLVM, AWS, Docker, PostgreSQL, MongoDB, Snowflake, PySpark |
 
-## Background
+</details>
 
-**University of California, Davis** · MS Computer Science, expected June 2028  
-**Savitribai Phule Pune University** · BE Computer Engineering, 2026
+<details>
+<summary><strong>Education, awards & leadership</strong></summary>
 
-Previously a Google Developers Group Student Lead and Microsoft Learn Student Ambassador. Winner of the IGI Hackathon (2024) and IGI Ideathon (2025).
+- **University of California, Davis** · MS Computer Science, expected June 2028
+- **Savitribai Phule Pune University** · BE Computer Engineering, 2026
+- Inter-College Project of the Year Award, 2026
+- IGI Ideathon Winner, 2025 · IGI Hackathon Winner, 2024
+- Google Developers Group Student Lead, 2025
+- Microsoft Learn Student Ambassador, 2023
+
+</details>
 
 ---
 
-Interested in software engineering, ML systems, and research collaborations. Reach me at [ramwasankar04@gmail.com](mailto:ramwasankar04@gmail.com).
+Open to software engineering, ML systems, and research collaborations.  
+[ramwasankar04@gmail.com](mailto:ramwasankar04@gmail.com)
